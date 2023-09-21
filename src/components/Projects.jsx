@@ -8,7 +8,7 @@ import OUAT from '../assets/ouat1.png';
 
 const Projects = () => {
   return (
-    <div name='projects' className='w-full bg-[#0c1f3d] text-gray-300 p-4'>
+    <div name='projects' className='w-full bg-[#48556a] text-gray-300 p-4'>
       <div className='max-w-xl mx-auto'>
         <p className='text-4xl font-bold inline border-b-4 border-purple-600 text-gray-300'>Projects</p>
         <Carousel infiniteLoop autoPlay interval={5000} showThumbs={false} className='shadow-md shadow-[#040c16]'>
@@ -18,7 +18,7 @@ const Projects = () => {
             <p>Fubar Gaming is a user-friendly game review website that empowers gamers to create and share their own reviews while providing ratings for their favorite games.</p>
           </div>
           <div>
-            <img className='w-full' src={Catacombs} alt='project 2' />
+            <img className='w-full' src={Zelda} alt='project 2' />
             <h3 className='my-4'>Zelda Remake</h3>
             <p>Zelda inspired remake using Kaboomjs game library.</p>
           </div>
