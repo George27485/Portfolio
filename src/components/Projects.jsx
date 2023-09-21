@@ -29,12 +29,14 @@ const Projects = () => {
             <div className='shadow-md shadow-[#040c16]'>
               <img className='w-20 mx-auto' src={QRCode} alt='project 3' />
               <h3 className='my-4'>QR code Generator</h3>
-              <p> TBD is a user-friendly game review website that empowers gamers to create and share their own reviews while providing ratings for their favorite games.</p>
+              <p> Simple QR code generator.</p>
             </div>
             <div className='shadow-md shadow-[#040c16]'>
               <img className='w-20 mx-auto' src={OUAT} alt='project 4' />
               <h3 className='my-4'>Once Upon A Time</h3>
-              <p> TBD is a user-friendly game review website that empowers gamers to create and share their own reviews while providing ratings for their favorite games.</p>
+              <p> Top-down 2D role-playing game set in a vibrant fantasy world, where players embark on quests, battle foes, and explore an intricately designed landscape. 
+ 
+ </p>
             </div>
 
           </Carousel>
