@@ -34,7 +34,7 @@ const Projects = () => {
             <div className='shadow-md shadow-[#040c16]'>
               <img className='w-20 mx-auto' src={OUAT} alt='project 4' />
               <h3 className='my-4'>Once Upon A Time</h3>
-              <p> Top-down 2D role-playing game set in a vibrant fantasy world, where players embark on quests, battle foes, and explore an intricately designed landscape. 
+              <p> Top-down 2D role-playing game set in a vibrant fantasy world, where players embark on quests, battle foes, and explore an intricately designed landscape. (work in progess)
  
  </p>
             </div>
