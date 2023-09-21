@@ -2,7 +2,7 @@ import React from 'react';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 import { Carousel } from 'react-responsive-carousel';
 import FubarGaming from '../assets/fubarGaming.png';
-import Catacombs from '../assets/Catacombs.png';
+import Zelda from '../assets/Catacombs.png';
 import QRCode from '../assets/QRCode.png';
 import OUAT from '../assets/ouat1.png';
 
